@@ -25,3 +25,8 @@ Temperture and Humidity Detect by STM32F103RCT6 （STM32F103R6）and proteus
 
 但是作为一个课堂小展示对我来说已经够用了。
 
+
+
+电路图如下：
+
+![image-20221212100210058](README/image-20221212100210058.png)
